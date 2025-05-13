@@ -32,6 +32,6 @@ Explore the product features in the "Why Choose SmartWatch Pro?" section.
 Use the contact form to submit inquiries (a confirmation alert will appear).
 
 Live Demo
-View the live page at: https://rohanraj1205.github.io/MarketingLandingPage/
+View the live page at: https://github.com/RohanRaj1205/MarketingLandingPage
 Author
-Mudunoori Rohan RajLinkedIn: https://www.linkedin.com/in/mudunoori-rohan-raj-3a5763244GitHub: https://github.com/RohanRaj1205
+Mudunoori Rohan RajLinkedIn: www.linkedin.com/in/mudunoori-rohan-raj-3a5763244 : https://github.com/RohanRaj1205
